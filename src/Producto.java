@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 public class Producto {
-    private JPanel panel1;
+    private JPanel producto;
     private JTextField textField1;
     private JTextField textField2;
     private JTextField textField3;
