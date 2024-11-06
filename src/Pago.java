@@ -31,7 +31,7 @@ public class Pago {
             @Override
             public void actionPerformed(ActionEvent e) {
                 // Aquí puedes implementar la lógica para procesar el pago
-                JOptionPane.showMessageDialog(frame, "Pago procesado correctamente!");
+                JOptionPane.showMessageDialog(frame, "Su pedido a sido exitoso!");
                 frame.dispose(); // Cerrar la ventana actual
             }
         });
